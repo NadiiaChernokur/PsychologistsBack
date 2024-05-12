@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "psychologist-7ca39",
+  "private_key_id": "62b0cb18dff682d64f3c94b2ada4ffdf2b33c2ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCl5BVMGSByS+Kt\nQpSb5ScTW60mVc6Dlk9MkRtOlUDzlCGKJ0o3whcG/2A0VqFln3irCAfgJAsG0gV6\nW+adRXP6IAjOKJf0CCYQpSkxHagx8clZKuEAIln+JxyKjnOYcZS8cVraOU93dZ07\nE/qdjSmPUi5ttktiltwgOw/Rfo2rktcNdS2m9c4ik1sS4qwFAdvSv62U7ykGQHQf\n2K8UVDZEZakC6BPSx1vtya6Ajblo8mgDSNvc9bmS8ak2oboN4P40H5PwXbMgi4+c\nbcUsV5Lxw+JMIbg5dtHlrZhpy+L5/D8B0lCPp+YxiQwo6B1VW7JzPahJIiZ5WNQV\n0/qUrPEFAgMBAAECggEAA/wVjHoyCFMzguJNiLnmLvxA8+HHXLiYkQgPQttc79Z7\nQI+vCn9tmpJs/VtAJzbyz0QZhFQsgggIPHP53YWhXCNQctTdllQElHPGW7kQ2DPf\n/twdaXZpxcWrIgmuU/DhsYd7g8n900QoK0odXZMNdrU/pKaZt8JUT6xIT5aEBD7J\nzlMkGB8qeGvvecPrWNAV/O8y3fYQURE/9dGdvGVyUofoJotxHTQh/pUSyG6DQqG0\ns1XR30nBHI9NB2pLlV5z+Y2F/XP3/Qd+zguPXy46XcqJXYGM7PLhjD1507xqsvvZ\nGHqNCwRijt8QreFwNSqCMqNlVjEtZhIO2E9TLROIIQKBgQDPdZkhMb2dsPPonDDy\n5DRAVUzRuS0yCe0yRgA/F1U/9hBAJ+blmILqJAqngCr3j/Nir9ZAdEIIhzWtCquA\n+LjEiJ8qsbs+JjeMMaVWAzvNwwZI3XXSn0bB5HdjFfjla9zKUQXDjZFm46m+mtRE\nKtCmlyqyjRT96lvAk07BhpQ1KQKBgQDMtJ6sAz53vU5psrw11oMPqgJjluonAMEF\n1QkiSQp9MEa6UiSXFD0YIcdkTA37yGG2BlAISIfp6Z03/3K6EG9l3qWH4vRxwhy/\nraiwBiUMYCDnUkqUHMW5b/x3akqcFEt7JHLLyRm4ormM0ummVGpuH+vN9Yk9oGmX\nbyxaIdqcfQKBgBoQol6jSzmGw/5TsWqy9UWn8fDfnSgOSzjnxpwmqFVS6xPEb6Ql\nFz2nrZcB6WQVN/UMNpT+hlVf94R4NLgNh9lZePX6QpY6YvxAOI+n9FmTyTRabrU5\nwcAWnlFar1zTwnfA2kKJhN0yeV8zQLwXzQNBNuIcC6kjSsfVOi3iZLiRAoGAEN69\nyN1Hk6SlRq61NhaknHDdW4m/aFF2lt10sD+mvqRw38APRegkFM4L2acu69Yav16L\nz/LySIO5Mjk6Ij1igNm1eJpqnMlrhxxvr3oCKZ/udkHg5Y3teZfSDaFT3sMJaW+a\nilLbbMz0T7e+C7gfQU4eJ84Zblu+9/zwgckSdB0CgYAIwiCNH08U6+FP2Xb8MdDt\nB4R97/9U66hCi2PWL1yTueMt5LU1EMioVlmkkd1bT19mEqsZ0Y0HvAw4dU/oewVx\nAo8citG+R99RMcGri4hIEIOzRX5KzFrVPDHHkBROh9tV2kGIfJQJ7OszmqDQqfjq\nb1AxtW+Wa/tlr8G8haMA7A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-2r1ss@psychologist-7ca39.iam.gserviceaccount.com",
+  "client_id": "104691620398606168190",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2r1ss%40psychologist-7ca39.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
