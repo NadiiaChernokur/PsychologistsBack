@@ -1,10 +1,9 @@
 import express from "express";
 import morgan from "morgan";
 import cors from "cors";
-// import contactsRouter from "./routes/contactsRouter.js";
-// import usersRouter from "./routes/usersRouters.js";
+
 import dotenv from "dotenv";
-// import mongoose from "mongoose";
+
 import { initializeApp } from "firebase/app";
 import {
   getDatabase,
@@ -17,7 +16,7 @@ import {
 } from "firebase/database";
 
 import { getAuth, createUserWithEmailAndPassword } from "firebase/auth";
-import usersRouter from "../src/psychologischesRouter.js";
+import usersRouter from "./src/psychologischesRouter.js";
 
 dotenv.config();
 const {

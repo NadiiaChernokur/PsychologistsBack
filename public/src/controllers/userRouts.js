@@ -3,8 +3,9 @@ import { initializeApp } from "firebase/app";
 import express from "express";
 import serviceAccount from "../path/psychologist-7ca39-firebase-f.json" assert { type: "json" };
 import { createUserWithEmailAndPassword } from "firebase/auth";
-import { auth, userDatabase } from "../../public/app.js";
+// import { auth, userDatabase } from "../";
 import { getDatabase, set } from "firebase/database";
+import { auth } from "../../app.js";
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
   databaseURL: "https://psychologist-7ca39-default-rtdb.firebaseio.com",

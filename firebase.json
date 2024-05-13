@@ -4,8 +4,8 @@
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {
-        "source": "/apy/users",
-        "destination": "/apy/"
+        "source": "/apy",
+        "destination": "/apy/users/**"
       }
     ]
   }

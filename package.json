@@ -5,10 +5,10 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./app.js",
+    "start": "node ./public/app.js",
     "starts": "node ./src/controllers/userRouts.js",
     "yu": "node ./src/psychologischesRouter.js",
-    "dev": "nodemon ./app.js"
+    "dev": "nodemon ./public/app.js"
   },
   "keywords": [],
   "author": "",
