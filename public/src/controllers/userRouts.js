@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import express from "express";
 import serviceAccount from "../path/psychologist-7ca39-firebase-f.json" assert { type: "json" };
 import { createUserWithEmailAndPassword } from "firebase/auth";
-import { auth, userDatabase } from "../../app.js";
+import { auth, userDatabase } from "../../public/app.js";
 import { getDatabase, set } from "firebase/database";
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),

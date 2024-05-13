@@ -17,7 +17,7 @@ import {
 } from "firebase/database";
 
 import { getAuth, createUserWithEmailAndPassword } from "firebase/auth";
-import usersRouter from "./src/psychologischesRouter.js";
+import usersRouter from "../src/psychologischesRouter.js";
 
 dotenv.config();
 const {
